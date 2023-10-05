@@ -1,1 +1,1 @@
-This file is for #Ducat Frontend # projects
+This file is for **Ducat Frontend projects**
